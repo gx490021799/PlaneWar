@@ -1,7 +1,5 @@
 # PlaneWar
 基于Python第三方库Pygame开发的飞机大战小游戏（demo）
-# PlaneWar
-基于Python第三方库Pygame开发的飞机大战小游戏（demo）
 
 
 # 设计思路：
@@ -25,7 +23,8 @@
 
 
 
-Python版本：3.6.2 Pygame：2.0.1
+Python版本：3.6.2 
+Pygame：2.0.1
 已经打包好不带黑窗口的模式
 点击exe文件可直接运行
 
